@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672158287 source:c:\users\cataf\onedrive\desktop\dbank\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+
